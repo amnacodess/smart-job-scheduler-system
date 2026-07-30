@@ -43,13 +43,13 @@ BS Software Engineering
 ## Screenshots
 
 ### Main Menu
-![Main Menu](screenshot/main-menu.png)
+![Main Menu](screenshots/main-menu.png)
 
 ### Insert Job
-![Insert Job](screenshot/insert-job.png)
+![Insert Job](screenshots/insert-job.png)
 
 ### Search Job
-![Search Job](screenshot/search-job.png)
+![Search Job](screenshots/search-job.png)
 
 ### Display Jobs
-![Display Jobs](screenshot/display-jobs.png)
+![Display Jobs](screenshots/display-jobs.png)
